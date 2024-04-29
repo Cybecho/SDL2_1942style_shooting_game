@@ -1,4 +1,4 @@
-# SDL2_1942style_shooting_game
+# SDL2_GAME_1942_STYLE
 
 [플레이 유튜브 링크](https://youtu.be/g4MokRiThJw)
 
